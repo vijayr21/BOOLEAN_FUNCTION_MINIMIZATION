@@ -50,7 +50,7 @@ and(u,w,y);
 or(f2,s,t,u);
 endmodule
 
-Developed by :Danica Christa
+Developed by :VIJAY R
 RegisterNumber:212223240022
 ```
 
