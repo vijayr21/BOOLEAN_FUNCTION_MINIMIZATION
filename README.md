@@ -52,7 +52,13 @@ endmodule
 
 Developed by :VIJAY R
 RegisterNumber:212223240022
+
 ```
+![WhatsApp Image 2024-03-22 at 13 50 29_c317f4e9](https://github.com/vijayr21/BOOLEAN_FUNCTION_MINIMIZATION/assets/149347607/b9e61c32-114d-4376-a386-91457b1d63a7)
+
+![WhatsApp Image 2024-03-22 at 13 50 30_2ce4d203](https://github.com/vijayr21/BOOLEAN_FUNCTION_MINIMIZATION/assets/149347607/770f3ae3-8b30-4d65-a148-c6b296a23b65)
+
+
 
 **Output:**
  ![alt text](<Screenshot 2024-03-15 141340.png>)
